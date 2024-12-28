@@ -5,14 +5,14 @@ This app is created by me as personal project portofolio. This app like selling 
 ## Built With
 
 [![Laravel 7](https://img.shields.io/badge/Laravel-7.x-red.svg?style=rounded-square)](https://laravel.com/docs/7.x)
-[![Vue 3](https://img.shields.io/badge/Vue-3.x-green.svg?style=rounded-square)](https://vuejs.org/guide/introduction.html)
+[![Vue 2](https://img.shields.io/badge/Vue-2.x-green.svg?style=rounded-square)](https://vuejs.org/guide/introduction.html)
 [![MariaDB](https://img.shields.io/badge/MariaDB-v.11.x-orange.svg?style=rounded-square)](https://mariadb.org/download/)
 
 
 ## Requirements
 
 1. Laravel (version 7)
-2. Vue 3
+2. Vue 2
 3. Postman
 4. Web Server (ex. localhost)
 5. MariaDB / MySQL Database
@@ -47,26 +47,26 @@ For `DATABASE_CONNECTION`, it's based on your database that using on your local 
 
 ## Feature
 
-## I. Backend
-1. Login and Register API
-2. Admin API :
-    2.1 Users
-    2.2 Books
-    2.3 Books Category
-    2.4 Carts
-    2.5 Invoice
-    2.6 Payment
-    2.7 Balance Payment   
-3. Users API :
-    3.1 Users
-    3.2 Books
-    3.3 Books Category
-    3.4 Carts
-    3.5 Invoice
-    3.6 Payment
-    3.7 Balance Payment 
+1. Backend
+    1. Login and Register API
+    2. Admin API :
+        1. Users
+        2. Books
+        3. Books Category
+        4. Carts
+        5. Invoice
+        6. Payment
+        7. Balance Payment   
+    3. Users API :
+        1. Users
+        2. Books
+        3. Books Category
+        4. Carts
+        5. Invoice
+        6. Payment
+        7. Balance Payment 
 
-##  II. Frontend
+2. Frontend
 Coming Soon..
 
 ## License
