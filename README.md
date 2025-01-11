@@ -67,7 +67,7 @@ For `DATABASE_CONNECTION`, it's based on your database that using on your local 
         7. Balance Payment 
 
 2. Frontend
-Coming Soon..
+    1. Coming Soon..
 
 ## License
 
